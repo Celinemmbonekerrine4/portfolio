@@ -5,6 +5,12 @@ h1{
     color:rgb(178, 216, 178);
     margin-top:3px;
 }
+h2{
+    font-size: 30px;
+    margin-left: 70px;
+    margin-bottom: 80px;
+    
+}
 nav ul{
     list-style-type: none;
     padding: 0px;
@@ -20,6 +26,7 @@ nav li a{
     text-decoration: none;
     float: right;
     font-size: 20px;
+    display: flex;
 }
 nav{
     background-color:whitesmoke;
