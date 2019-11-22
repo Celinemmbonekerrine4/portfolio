@@ -9,7 +9,7 @@ h2{
     font-size: 30px;
     margin-left: 70px;
     margin-bottom: 80px;
-    
+   
 }
 nav ul{
     list-style-type: none;
@@ -34,12 +34,30 @@ nav{
 li a:hover{
     color:palevioletred;
 }
+.about{
+    display: flex;
+}
 img{
     float:right;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-right: 80px;
+    margin-left: 30px;
     width: 350px;
     height: 450px;
     border: 2px transparent;
     box-shadow: 3px 3px 5px rosybrown;
+}
+h3{
+    font-family: 'Chicle', cursive;   
+    font-size:30px;
+    margin-left:20px;
+}
+p{
+    font-size: 25px;
+    font-family: 'Text Me One', sans-serif;
+}
+.description{
+    background-color: aquamarine;
+    margin-left: 80px;
+    margin-top: 20px;
 }

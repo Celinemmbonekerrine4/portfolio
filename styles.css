@@ -1,6 +1,5 @@
-body{
-    background-image: url("https://bit.ly/339tqAu")
-}
+
+   
 h1{
     font-family: 'Artifika', serif;
     text-shadow:2px 2px 3px black;
@@ -32,13 +31,13 @@ nav li a{
     display: flex;
 }
 nav{
-    background-color:whitesmoke;
+    background-image:none;
 }
 li a:hover{
     color:palevioletred;
 }
 .celine{
-    
+    background-image: url("https://bit.ly/339tqAu");
    border-style: none;
    display: flex;
    justify-content: space-between;
