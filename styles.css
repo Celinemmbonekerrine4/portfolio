@@ -2,7 +2,7 @@ h1{
     font-family: 'Artifika', serif;
 
     font-size: 50px;
-    color: burlywood;
+    color:rgb(178, 216, 178);
     margin-top:3px;
 }
 nav ul{
@@ -14,7 +14,7 @@ nav ul{
    position: sticky;
 }
 nav li a{
-    color:whitesmoke;
+    color:rgb(178, 216, 178);
     display:block;
     padding: 14px 16px;
     text-decoration: none;
@@ -22,7 +22,7 @@ nav li a{
     font-size: 20px;
 }
 nav{
-    background-color: black;
+    background-color:whitesmoke;
 }
 li a:hover{
     color:palevioletred;
