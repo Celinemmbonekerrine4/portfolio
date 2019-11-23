@@ -36,6 +36,7 @@ li a:hover{
 }
 .about{
     display: flex;
+    background-image: url("")
 }
 img{
     float:right;
@@ -57,7 +58,11 @@ p{
     font-family: 'Text Me One', sans-serif;
 }
 .description{
-    background-color: aquamarine;
+    background-color: chocolate;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
     margin-left: 80px;
     margin-top: 20px;
+    text-align: center;
 }
