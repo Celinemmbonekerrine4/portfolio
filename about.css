@@ -6,10 +6,14 @@ h1{
     margin-top:2px;
 }
 h2{
+    font-family: 'Notable', sans-serif;
     font-size: 30px;
     margin-left: 70px;
     margin-bottom: 80px;
-   
+    
+}
+.header{
+    background-color: darkslategrey;
 }
 nav ul{
     list-style-type: none;
@@ -29,7 +33,7 @@ nav li a{
     display: flex;
 }
 nav{
-    background-color:whitesmoke;
+    background-image:none;
 }
 li a:hover{
     color:palevioletred;
@@ -60,11 +64,11 @@ p{
     font-family: 'Text Me One', sans-serif;
 }
 .description{
-    background-color: chocolate;
+    background-color: aliceblue;
+    color: black;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     margin-left: 80px;
     margin-top: 20px;
-    text-align: center;
 }

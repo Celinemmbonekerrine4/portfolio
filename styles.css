@@ -15,6 +15,9 @@ h2{
     margin-bottom: 80px;
     
 }
+.header{
+    background-color: darkslategrey;
+}
 nav ul{
     list-style-type: none;
     padding: 0px;
@@ -22,7 +25,6 @@ nav ul{
     overflow: hidden;
     top: 0px;
    position: sticky;
-   margin-bottom: 50px;
 }
 nav li a{
     color:rgb(178, 216, 178);
@@ -41,6 +43,9 @@ li a:hover{
 }
 .celine{
     background-image: url("https://bit.ly/35tBltN");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
    border-style: none;
    display: flex;
    justify-content: space-between;
