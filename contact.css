@@ -1,0 +1,50 @@
+h1{
+    font-family: 'Artifika', serif;
+    text-shadow:2px 2px 3px black;
+    font-size: 50px;
+    color:rgb(178, 216, 178);
+    margin-top:2px;
+}
+h2{
+    font-family: 'Notable', sans-serif;
+    font-size: 30px;
+    margin-left: 70px;
+    margin-bottom: 80px;
+    
+}
+.header{
+    background-color: darkslategrey;
+}
+nav ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    top: 0px;
+   position: sticky;
+}
+nav li a{
+    color:rgb(178, 216, 178);
+    display:block;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: right;
+    font-size: 20px;
+    display: flex;
+}
+nav{
+    background-image:none;
+}
+li a:hover{
+    color:palevioletred;
+}
+
+.icons{
+    font-size: 80px;
+    text-align: center;
+    color: cadetblue;
+}
+.icons>i:hover{
+    color: blueviolet;
+    font-size:100px;
+}
