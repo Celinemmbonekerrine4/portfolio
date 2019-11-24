@@ -9,8 +9,8 @@ A porfolio is a range of investments held by someone.So i decided to write my po
 I have A few Projects since i joined Moringa school.
 like;
 1. The Tausi Fabrics project.<a href="https://github.com/Celinemmbonekerrine4/celine.github.io">Click here</a>  ![alt text](https://bit.ly/2Kks9jp)
-1. The pet project.<a href="https://github.com/Celinemmbonekerrine4/colline">Click here</a> ![alt text](https://bit.ly/2KCZp5u)
-1. The Grandeur Resort project <a href="https://github.com/Celinemmbonekerrine4/fancy">Click here</a> ![alt text](https://bit.ly/2pCe0ac)
+1. The pet project.<a href="https://github.com/Celinemmbonekerrine4/colline">Click here</a> ![alt text](https://bit.ly/2pCe0ac)
+1. The Grandeur Resort project <a href="https://github.com/Celinemmbonekerrine4/fancy">Click here</a> ![alt text](https://bit.ly/2KCZp5u)
 1. The cookie recipie(Clone). <a href="https://github.com/Celinemmbonekerrine4/xherdan">Click here</a>
 ![alt text](https://bit.ly/2Og06DS)
 # About me
