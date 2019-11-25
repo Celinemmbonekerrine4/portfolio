@@ -28,5 +28,8 @@ Currently in Moringa studying Programming for 6 months.
 1. Listening to Music.
 # Language Used
 **Html** and **Css** are the only language used.
+## Link To Website Access
+https://github.com/Celinemmbonekerrine4/portfolio.github.io
 # License info
+Licensed under the  [MIT license](LICENSE).
 Copyright (c) 2019 Portfolio
