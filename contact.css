@@ -43,8 +43,9 @@ li a:hover{
     font-size: 80px;
     text-align: center;
     color: cadetblue;
+    background-image: url("https://bit.ly/35uPYwV");
 }
 .icons>i:hover{
-    color: blueviolet;
+    color: rgb(225, 218, 231);
     font-size:100px;
 }
